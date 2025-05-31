@@ -14,4 +14,7 @@ module com.example.personalfinance {
 
     opens PersonalFinance to javafx.fxml;
     exports PersonalFinance;
+
+    opens LoginSample to javafx.fxml;
+    exports LoginSample;
 }

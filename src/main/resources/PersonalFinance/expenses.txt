@@ -1,0 +1,3 @@
+2025-05-14	 something	 $2342.0	cat1
+2025-05-14	 something else	 $123.0	cat2
+
